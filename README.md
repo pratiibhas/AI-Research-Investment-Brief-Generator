@@ -24,7 +24,10 @@ This project implements a multi-agent system using Google ADK to generate AI-pow
   - sentiment_tool
   - stock_tool
   - report_tool
-
+1. sentiment_tool: Analyze sentiment of a given text and return polarity score and classification.
+2. stock_tool: returns current_price, 30_day_return_percent ,volatility.
+3. report_tool: This brief combines short-term price momentum and recent news sentiment to provide a quick investment snapshot.
+   
 ## Setup
 
 1. Create virtual environment
