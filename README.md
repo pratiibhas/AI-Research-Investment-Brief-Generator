@@ -3,7 +3,7 @@
 ### What it does:
 User enters:
 “Analyze HDFC Bank and give me an investment brief.”
-1. Your multi-agent system will:
+1. Our multi-agent system will:
 2. Search latest news (using google_search tool)
 3. Fetch financial data (custom tool)
 4. Analyze sentiment from news (custom tool)
